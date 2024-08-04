@@ -1,5 +1,6 @@
 3D Bounce Ball Game
-Welcome to the 3D Bounce Ball Game! This project is a simple yet exciting game where a ball bounces within a 3D environment. The game utilizes OpenGL for rendering and GLUT for handling window and input operations.
+Welcome to the 3D Bounce Ball Game! This project is a simple yet exciting game where a ball bounces within a 3D environment. 
+The game utilizes OpenGL for rendering and GLUT for handling window and input operations.
 
 Features
 3D Ball Movement: The ball can move in all directions within a 3D space.
